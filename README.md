@@ -1,9 +1,9 @@
 # fifa-world-cup-datasets
-
-
+<br>
+<br>
 
 ## Project Description
-<p>FIFA World Cup Projects revolving around the data across all the world cups from 1930-2024</p>
+<p>FIFA World Cup Projects revolving around the data across all the World Cups from 1930-2024</p>
 <br>
 <br>
 
