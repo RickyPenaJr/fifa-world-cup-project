@@ -1,4 +1,4 @@
-# fifa-world-cup-datasets
+# fifa-world-cup-project
 <br>
 <br>
 
