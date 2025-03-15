@@ -2,6 +2,9 @@
 <br>
 <br>
 
+![worldcupbanner](https://github.com/user-attachments/assets/7a74ff4e-41cd-4d74-a59e-051afe51517f)
+
+
 ## Project Description
 <p>FIFA World Cup Projects revolving around the data across all the World Cups from 1930-2024</p>
 <br>
