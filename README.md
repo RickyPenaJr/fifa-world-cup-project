@@ -1,4 +1,4 @@
-# fifa_world_cup_project
+# FIFA World Cup Project
 ![worldcupbanner](https://github.com/user-attachments/assets/7a74ff4e-41cd-4d74-a59e-051afe51517f)
 <br>
 <br>
