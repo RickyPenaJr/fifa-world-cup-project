@@ -41,7 +41,7 @@ make the experience of working of it much more enjoyable and the learning proces
 ```
 /fifa-world-cup-project
 │
-├── datasets/              #csv Files Here
+├── datasets/              # CSV Files
 ├── visuals/               # Output charts and figures
 ├── notebook.ipynb         # Jupyter notebook (main project)
 ├── notebook.py            # Script version
