@@ -1,5 +1,3 @@
-![FIFA World Cup Analysis](banner.png)
-
 # ⚽ FIFA World Cup Project
 Explore FIFA World Cup history with Python — this project uses real tournament data to uncover scoring trends, top nations, and statistical shifts using Pandas, NumPy, and SciPy.
 
