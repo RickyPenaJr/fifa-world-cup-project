@@ -64,7 +64,7 @@ make the experience of working of it much more enjoyable and the learning proces
 
 ## 🛠 How to Run
 
-1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/ahmedelnaggar/fifa-world-cup-2022-dataset)
+1. Download the dataset from the updated [Kaggle source](https://www.kaggle.com/datasets/iamsouravbanerjee/fifa-football-world-cup-dataset)
 2. Place `WorldCups.csv` and `WorldCupMatches.csv` in the `/data` folder
 3. Install dependencies:
    ```
