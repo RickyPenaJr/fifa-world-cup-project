@@ -75,7 +75,7 @@ make the experience of working of it much more enjoyable and the learning proces
 ---
 
 ## 📌 License
-MIT License – feel free to use or adapt!
+MIT License
 
 ---
 
