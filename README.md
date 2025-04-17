@@ -11,8 +11,6 @@ Explore FIFA World Cup history with Python — this project uses real tournament
 ## 📈 Project Goals / Description
 
 <p>FIFA World Cup Projects revolving around the data across all the World Cups from 1930-2024</p>
-<br>
-<br>
 
 - Identify top goal-scoring countries
 - Track average goals per match over time
