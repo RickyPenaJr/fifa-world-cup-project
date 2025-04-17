@@ -36,7 +36,6 @@ Explore FIFA World Cup history with Python — this project uses real tournament
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/irickyjr/fifa-world-cup-analysis?style=social)](https://github.com/irickyjr/fifa-world-cup-analysis)
 
 ---
 
