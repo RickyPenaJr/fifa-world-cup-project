@@ -41,7 +41,7 @@ make the experience of working of it much more enjoyable and the learning proces
 ## 📁 Project Structure
 
 ```
-/fifa-world-cup-analysis
+/fifa-world-cup-project
 │
 ├── data/                  # Place downloaded Kaggle CSVs here
 ├── visuals/               # Output charts and figures
