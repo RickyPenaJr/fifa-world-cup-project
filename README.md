@@ -19,9 +19,7 @@ Explore FIFA World Cup history with Python — this project uses real tournament
 ---
 
 ## Backstory
-<p>I've always been a sports fanatic, especially around soccer as it's the sport I played since I was younger,
-this was one of my first projects as I felt that working around data from a topic that I peresonally like would
-make the experience of working of it much more enjoyable and the learning process of it much easier.</p>
+<p>I’ve always been a huge soccer fan—it’s the sport I grew up playing. For one of my first projects, I wanted to work with something I genuinely enjoy, and using soccer data made the whole process a lot more fun and easier to learn from.</p>
 
 ---
 
