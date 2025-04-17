@@ -22,3 +22,84 @@ make the experience of working of it much more enjoyable and the learning proces
 <br>
 <br>
 
+
+
+
+
+
+
+
+![FIFA World Cup Analysis](banner.png)
+
+# ⚽ FIFA World Cup Data Analysis
+Explore FIFA World Cup history with Python — this project uses real tournament data to uncover scoring trends, top nations, and statistical shifts using Pandas, NumPy, and SciPy.
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/irickyjr/fifa-world-cup-analysis?style=social)](https://github.com/irickyjr/fifa-world-cup-analysis)
+
+---
+
+## 📈 Project Goals
+
+- Identify top goal-scoring countries
+- Track average goals per match over time
+- Use hypothesis testing to detect significant scoring changes
+
+---
+
+## 📊 Sample Visuals
+
+### ⚽ Top 10 Countries by Total Goals
+![Top 10 Teams](visuals/top_10_teams.png)
+
+### 📉 Average Goals per Match (1930–2022)
+![Goals Over Time](visuals/avg_goals_per_year.png)
+
+---
+
+## 📁 Project Structure
+
+```
+/fifa-world-cup-analysis
+│
+├── data/                  # Place downloaded Kaggle CSVs here
+├── visuals/               # Output charts and figures
+├── notebook.ipynb         # Jupyter notebook (main project)
+├── notebook.py            # Script version
+├── README.md              # Project documentation
+└── requirements.txt       # Python libraries
+```
+
+---
+
+## 🧪 Technologies Used
+
+- `pandas` – data manipulation  
+- `numpy` – numerical computation  
+- `scipy` – statistical analysis (t-tests)  
+- `matplotlib` / `seaborn` – data visualization  
+
+---
+
+## 🛠 How to Run
+
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/ahmedelnaggar/fifa-world-cup-2022-dataset)
+2. Place `WorldCups.csv` and `WorldCupMatches.csv` in the `/data` folder
+3. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Run `notebook.ipynb` using Jupyter Notebook or VS Code
+
+---
+
+## 📌 License
+MIT License – feel free to use or adapt!
+
+---
+
+## 🏷️ GitHub Topics
+`#python` `#data-analysis` `#fifa` `#world-cup` `#pandas` `#numpy` `#scipy` `#sports-analytics` `#jupyter-notebook`
+
+---
