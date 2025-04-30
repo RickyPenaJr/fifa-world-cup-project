@@ -75,7 +75,17 @@ MIT License
 
 ---
 
+## 👤 Author
+
+**Ricky Peña Jr.**  
+📍 Houston, TX  
+🌐 [rickypenajr.github.io](https://rickypenajr.github.io)  
+🔗 [GitHub](https://github.com/rickypenajr) • [LinkedIn](https://linkedin.com/in/rickypenajr)
+
+---
+
 ## 🏷️ GitHub Topics
 `#python` `#data-analysis` `#fifa` `#world-cup` `#pandas` `#numpy` `#scipy` `#sports-analytics` `#jupyter-notebook`
 
 ---
+
