@@ -75,6 +75,11 @@ MIT License
 
 ---
 
+## 🏷️ GitHub Topics
+`#python` `#data-analysis` `#fifa` `#world-cup` `#pandas` `#numpy` `#scipy` `#sports-analytics` `#jupyter-notebook`
+
+---
+
 ## 👤 Author
 
 **Ricky Peña Jr.**  
@@ -83,9 +88,3 @@ MIT License
 🔗 [GitHub](https://github.com/rickypenajr) • [LinkedIn](https://linkedin.com/in/rickypenajr)
 
 ---
-
-## 🏷️ GitHub Topics
-`#python` `#data-analysis` `#fifa` `#world-cup` `#pandas` `#numpy` `#scipy` `#sports-analytics` `#jupyter-notebook`
-
----
-
