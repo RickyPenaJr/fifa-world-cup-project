@@ -6,7 +6,7 @@ Explore FIFA World Cup history with Python — this project uses real tournament
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
----
+
 
 ## 📈 Project Goals / Description
 
@@ -16,12 +16,12 @@ Explore FIFA World Cup history with Python — this project uses real tournament
 - Track average goals per match over time
 - Use hypothesis testing to detect significant scoring changes
 
----
+
 
 ## Backstory
 <p>I’ve always been a huge soccer fan—it’s the sport I grew up playing. For one of my first projects, I wanted to work with something I genuinely enjoy, and using soccer data made the whole process a lot more fun and easier to learn from.</p>
 
----
+
 
 
 ## 📊 Sample Visuals
@@ -32,7 +32,7 @@ Explore FIFA World Cup history with Python — this project uses real tournament
 ### 📉 Average Goals per Match (1930–2022)
 ![Goals Over Time](visuals/avg_goals_per_year.png)
 
----
+
 
 ## 📁 Project Structure
 
@@ -47,7 +47,7 @@ Explore FIFA World Cup history with Python — this project uses real tournament
 └── requirements.txt       # Python libraries
 ```
 
----
+
 
 ## 🧪 Technologies Used
 
@@ -56,7 +56,7 @@ Explore FIFA World Cup history with Python — this project uses real tournament
 - `scipy` – statistical analysis (t-tests)  
 - `matplotlib` / `seaborn` – data visualization  
 
----
+
 
 ## 🛠 How to Run
 
@@ -68,22 +68,20 @@ Explore FIFA World Cup history with Python — this project uses real tournament
    ```
 4. Run `notebook.ipynb` using Jupyter Notebook or VS Code
 
----
+
 
 ## 📌 License
 MIT License
 
----
+
 
 ## 🏷️ GitHub Topics
 `#python` `#data-analysis` `#fifa` `#world-cup` `#pandas` `#numpy` `#scipy` `#sports-analytics` `#jupyter-notebook`
 
----
+
 
 ## 👤 Author
 
 **Ricky Peña Jr.**  
 🌐 [rickypenajr.github.io](https://rickypenajr.github.io)  
 🔗 [GitHub](https://github.com/rickypenajr) • [LinkedIn](https://linkedin.com/in/rickypenajr)
-
----
